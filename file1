@@ -2,3 +2,5 @@ For i=1 to 100
 {
   print i;
 }
+printf("this i =",d%);
+exit(0);
