@@ -3,9 +3,8 @@ For i=1 to 100
 {
   print i;
 }
-add in main
+
 printf("this i =",d%);
 exit(0);
 
-merged
-
+edit in work 
