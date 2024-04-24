@@ -8,3 +8,4 @@ printf("this i =",d%);
 exit(0);
 
 merged
+
