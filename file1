@@ -3,6 +3,7 @@ For i=1 to 100
 {
   print i;
 }
+
 main is changed 1
 printf("this i =",d%);
 exit(0);
